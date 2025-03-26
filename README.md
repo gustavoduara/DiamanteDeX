@@ -1,6 +1,6 @@
 # DiamanteDeX
 
-![]()
+![](https://i.imgur.com/e0HaWS0.gif)
 
 ## Introdução
 simples gerador de diamantes formados por "x" do teclado, programa que se ultiliza de 
