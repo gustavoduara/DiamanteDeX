@@ -21,13 +21,13 @@
                     else
                     {
                         Console.WriteLine("O número não é ímpar. Tente novamente.");
-                        Console.Write("Digite um número inteiro ímpar: ");
+                        Console.Write("Digite um número ímpar: ");
                     }
                 }
                 else
                 {
                     Console.WriteLine("Entrada inválida. Por favor, digite um número inteiro.");
-                    Console.Write("Digite um número inteiro ímpar: ");
+                    Console.Write("Digite um número ímpar: ");
                 }
             }
         }
